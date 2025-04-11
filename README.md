@@ -22,16 +22,16 @@
 
 ## 🧰 Tech Stack
 
-**Languages**  
+**Languages:**  
 `C` `C++` `JavaScript` `SQL` `Core Java`
 
-**Frontend**  
-`React.js` `Tailwind CSS` `Bootstrap`  
+**Frontend:**  
+`React.js` `Tailwind CSS` `Bootstrap`
 
-**Backend & Database**  
-`Node.js` `Express.js` `MongoDB` `MySQL`  
+**Backend & Database:**  
+`Node.js` `Express.js` `MongoDB` `MySQL`
 
-**Tools & Platforms**  
+**Tools & Platforms:**  
 `Firebase` `Git` `Postman` `VS Code` `GitHub`
 
 ---
@@ -65,19 +65,25 @@
 🔗 [GitHub Repo](https://github.com/PriyaTripathi15/currency-converter)
 
 ---
-![GitHub Snake Light](https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake-dark.svg)
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake-dark.svg" alt="Snake dark mode animation" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaTripathi15&show_icons=true&theme=react" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaTripathi15&layout=compact&theme=react" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaTripathi15&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaTripathi15&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaTripathi15&layout=compact&theme=react" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaTripathi15&theme=react" height="150" />
 </p>
 
-
+---
 
 ## 📫 Let's Connect
 
@@ -88,4 +94,5 @@
 ---
 
 ## 🎵 Fun Fact
+
 > I mix code with melodies — coding while singing is my therapy 🎤💻
