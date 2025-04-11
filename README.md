@@ -65,7 +65,10 @@
 🔗 [GitHub Repo](https://github.com/PriyaTripathi15/currency-converter)
 
 ---
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake-dark.svg)
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
