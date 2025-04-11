@@ -74,15 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaTripathi15&theme=react" height="150"/>
 </p>
 
----
 
-## 🐍 GitHub Snake Game
-
-> Your contributions — but animated!
-
-![Snake animation](https://github.com/PriyaTripathi15/PriyaTripathi15/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Let's Connect
 
