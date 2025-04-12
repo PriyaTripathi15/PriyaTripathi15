@@ -68,6 +68,8 @@
 
 ## 🐍 GitHub Contribution Snake
 
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake.svg" alt="GitHub Snake Light" />
   <img src="https://raw.githubusercontent.com/PriyaTripathi15/PriyaTripathi15/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
