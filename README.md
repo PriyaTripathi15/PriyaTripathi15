@@ -77,13 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaTripathi15&show_icons=true&theme=react" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaTripathi15&layout=compact&theme=react" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaTripathi15&theme=react" height="150" />
-</p>
 
 ---
 
